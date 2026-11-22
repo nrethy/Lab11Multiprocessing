@@ -2,6 +2,8 @@
 ** Filename: mandelmovie.c
 ** Created: 11/22/2026
 ** Author: Noah Rethwisch
+** Assignment Name: Lab 11 - Multiprocessing
+** Section Number: 111
 ** Purpose: call mandel 50 times and generate images with a specified number of
 ** children
 */
